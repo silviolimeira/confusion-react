@@ -1,0 +1,12 @@
+
+Installing create-react-app
+
+# npm install -g create-react-app
+
+Generating and Serving a React Project Using create-react-app
+
+$ create-react-app confusion
+
+To start the app
+
+$ yarn start
