@@ -2,6 +2,7 @@
 Installing create-react-app
 
 # npm install -g create-react-app
+# yarn global add create-react-app
 
 Generating and Serving a React Project Using create-react-app
 
