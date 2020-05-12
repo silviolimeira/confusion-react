@@ -22,3 +22,4 @@ $ yarn add react-popper
 
 // Adding a Navigation Bar  -- Configuring React
 
+// Adding Menu Component
