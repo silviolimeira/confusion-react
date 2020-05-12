@@ -19,3 +19,6 @@ $ yarn add reactstrap
 $ yarn add react-popper
 
 // Configure to use Bootstrap 4
+
+// Adding a Navigation Bar  -- Configuring React
+
