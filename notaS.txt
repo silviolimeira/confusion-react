@@ -17,3 +17,5 @@ $ yarn start
 $ yarn add bootstrap
 $ yarn add reactstrap
 $ yarn add react-popper
+
+// Configure to use Bootstrap 4
