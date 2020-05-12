@@ -11,3 +11,9 @@ $ create-react-app confusion
 To start the app
 
 $ yarn start
+
+// Configure your React Project to use Reactstrap
+
+$ yarn add bootstrap
+$ yarn add reactstrap
+$ yarn add react-popper
